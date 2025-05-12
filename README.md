@@ -10,5 +10,5 @@ Plant carrots without getting trapped
 
 ## Tech Stack
 
-- **Engine:** Custom in-house engine by Media Molecule (used across the LittleBigPlanet series)
-- **Creation Tool:** _Create Mode_ – LBP2’s built-in visual logic and level design system
+- **Framework** Custom engine by Media Molecule
+- **Frontend** _Create Mode_ built into the framework for visual logic and level design
