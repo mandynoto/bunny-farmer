@@ -4,6 +4,6 @@
 
 Plan carrots without getting trapped
 
-![preview](./stats.pdf)
+![preview](./stats.svg)
 
 </div>
