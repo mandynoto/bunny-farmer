@@ -2,7 +2,7 @@
 
 # Bunny Farmer
 
-Plan carrots without getting trapped
+Plant carrots without getting trapped
 
 ![preview](./stats.svg)
 
